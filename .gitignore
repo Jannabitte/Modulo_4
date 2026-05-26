@@ -1,0 +1,66 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# Archivos compilados Java
+# =========================
+*.class
+target/
+build/
+
+# =========================
+# Maven / Gradle temporales
+# =========================
+.mvn/wrapper/maven-wrapper.jar
+.gradle/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs y temporales
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Archivos sensibles
+# =========================
+.env
+*.env
+application.properties
+application.yml
+config.properties
+secrets.properties
+credentials.json
+
+# =========================
+# Bases de datos locales
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Archivos de respaldo
+# =========================
+*.bak
+*.backup
+*.old
+
+# =========================
+# Capturas o archivos personales opcionales
+# =========================
+*.zip
+*.rar
+*.7z
