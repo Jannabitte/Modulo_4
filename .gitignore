@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+target/
+
+# Archivos generados por la app
+registro.txt
+registro_exportado.txt
+
+# Temporales
+*.log
+.DS_Store
+Thumbs.db
