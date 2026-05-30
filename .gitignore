@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+
+# Archivos compilados Java
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuraciones locales
+.env
