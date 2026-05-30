@@ -69,11 +69,5 @@ El sistema permite realizar las siguientes acciones:
 10. **Mostrar mapa de estudiantes**  
    Utiliza `Map` para mostrar la relación entre el ID del estudiante y sus datos principales.
 
-## Estructuras aplicadas
-
-### Uso de List
-
-Utilicé `List` para almacenar las notas de cada estudiante, ya que un estudiante puede tener más de una nota y es necesario recorrerlas para calcular el promedio.
-
 
 ```java
